@@ -46,10 +46,8 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This is the workshop template. Delete these lines and use it to customize your own website.
-If you are running a self-organized workshop or have not put in a workshop request yet, please also fill in 
-<a href="{{site.amy_site}}/submit">this workshop request form</a> to let us know about your workshop
-and our administrator may contact you if we need any extra information.</h4>
+<h4>This Software Carpentry Workshop is the first part (Monday and Tuesday) of the Software Tools for Mathematics workshop. It will likely be delivered in Spanish, but helpers will be able to help participants in other languages including English. The rest of the workshop (Wednesday-Friday) should be mostly in English.</h4>
+
 
 <h2 id="general">General Information</h2>
 
@@ -68,10 +66,12 @@ and our administrator may contact you if we need any extra information.</h4>
 {% endif %}
 
 {% comment %}
-  AUDIENCE
+All are welcome and encouraged to attend either or both parts of this workshop!
 
-  Explain who your audience is.  (In particular, tell readers if the
-  workshop is only open to people from a particular institution.
+    there will be special focus on getting complete beginners started
+    we will help semi-beginners get more proficient
+    we will encourage advanced users to start developing
+    developers will be able to help other users and will find a good working environment 
 {% endcomment %}
 {% if page.carpentry == "swc" %}
   {% include sc/who.html %}
