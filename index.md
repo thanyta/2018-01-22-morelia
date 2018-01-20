@@ -50,7 +50,6 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <h4>Please visit the Etherpad and introduce yourself before the workshop: http://pad.software-carpentry.org/2018-01-22-morelia</h4>
 
-
 <h2 id="general">General Information</h2>
 
 {% comment %}
