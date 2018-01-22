@@ -46,9 +46,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 </iframe>
 {% endif %}
 
-<h4>This Software Carpentry Workshop is the first part (Monday and Tuesday) of the [Software Tools for Mathematics](http://matmor.unam.mx/software-tools-math) workshop. It will likely be delivered in Spanish, but helpers will be able to help participants in other languages including English. The rest of the workshop (Wednesday-Friday) should be mostly in English.</h4>
+<h4>This Software Carpentry Workshop is the first part (Monday and Tuesday) of the <a href="http://matmor.unam.mx/software-tools-math">Software Tools for Mathematics</a> workshop. It will likely be delivered in Spanish, but helpers will be able to help participants in other languages including English. The rest of the workshop (Wednesday-Friday) should be mostly in English.</h4>
 
-<h4>Please visit the Etherpad and introduce yourself before the workshop: [http://pad.software-carpentry.org/2018-01-22-morelia](etherpad-software-carpentry-2018-01-22-morelia)</h4>
+<h4>Please visit the Etherpad and introduce yourself before the workshop: <a href="http://pad.software-carpentry.org/2018-01-22-morelia">etherpad-software-carpentry-2018-01-22-morelia</a></h4>
 
 <h2 id="general">General Information</h2>
 
